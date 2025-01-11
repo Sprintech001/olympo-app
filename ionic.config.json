@@ -1,0 +1,8 @@
+{
+  "name": "olympo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "9e6aa42c"
+}

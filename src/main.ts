@@ -33,6 +33,7 @@ import '@ionic/vue/css/palettes/dark.system.css';
 
 /* Theme variables */
 import './theme/variables.css';
+import './index.css' // Importação do Tailwind CSS
 
 const app = createApp(App)
   .use(IonicVue)
